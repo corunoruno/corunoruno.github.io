@@ -4,7 +4,7 @@ div {
     margin: 20px;
     padding: 14px;
 }
-a {
+a a:link, a:visited, a:hover, a:active {
     color: #fff;
     text-decoration:none;
 }
